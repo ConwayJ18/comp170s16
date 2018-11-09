@@ -1,0 +1,59 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Office Files #
+*.doc
+*.dot
+*.wbk
+*.docx
+*.docm
+*.dotx
+*.dotm
+*.docb
+*.xls
+*.xlt
+*.xlm
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+*.xlsb
+*.xla
+*.xlam
+*.xll
+*.xlw
+*.ppt
+*.pot
+*.pps
+*.pptx
+*.pptm
+*.potx
+*.potm
+*.ppam
+*.ppsx
+*.ppsm
+*.sldx
+*.sldm
+*.pub
+*.xps
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
